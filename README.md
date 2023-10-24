@@ -1,2 +1,2 @@
 # sweet-pepper
-It is a code to use camera to get sweet pepper image and save it to the DataBase.
+It is a code to use camera to take sweet pepper picture and save image into remote DataBase.
