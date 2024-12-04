@@ -6,7 +6,7 @@ def geturlandtime(imgpath,loctime):
         url="https://api.imgbb.com/1/upload"
 
         payload={
-            "key": "bbf5ba45259d6eaa2cec3e74fdd19671",
+            "key": "Your key",
             "image": base64.b64encode(f.read()),
             "name" : loctime,
             }
