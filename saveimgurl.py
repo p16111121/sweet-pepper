@@ -3,11 +3,11 @@ def inserturl(url,updatetime,time_sec):
     import mysql.connector #pip install mysql-connector-python
     #資料庫資料
     db_settings = {
-        "host": "140.130.89.143",
-        "database" : "sweetpepper",
-        "user" : "bmeuserb",
-        "password" : "BME7606B",
-        "port" : "3306"}
+        "host": "Your IP",
+        "database" : "Your database name",
+        "user" : "Your username",
+        "password" : "Your oassword",
+        "port" : "port number"}
     print("Inserting url,updatetime into image_url table")
     try:
         #對目標資料庫建立連線
